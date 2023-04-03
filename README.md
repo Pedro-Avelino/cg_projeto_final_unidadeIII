@@ -1,6 +1,6 @@
 # Cuckold Jumper
 
-Projeto desenvolvido para a disciplina de computação gráfica, valendo a nota da 3a unidade
+Projeto desenvolvido em C# utilizando o motor gráfico Unity para a disciplina de computação gráfica, valendo a nota da 3a unidade
 
 ## 🚀 Começando
 
