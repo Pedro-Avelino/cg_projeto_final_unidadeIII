@@ -38,7 +38,7 @@ Agora com o Unity e VS-Code instalados basta selecionar o sdk que utilizamos par
 
 ## 📌 Versão
 
-Nós usamos [Unity](https://unity.com/pt/download) LTS. Porém a verão utilizada de bibliotecas foi a 2021.3.11f1. 
+Nós usamos [Unity](https://unity.com/pt/download) LTS. Porém a versão utilizada de bibliotecas foi a 2021.3.11f1. Você vai precisar utilizar ela para que o seu projeto funcione 100% compativel com o do nosso projeto.
 
 ## ✒️ Autores
 
